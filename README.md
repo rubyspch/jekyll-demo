@@ -18,7 +18,8 @@ Each commit will update the Github Page [here](https://rubyspch.github.io/jekyll
 2. Blend until smooth. If the mixture is too think, add more fruit juice/water.
 3. Serve in a glass with ice cubes.
 
-[Link](url) and ![Image](src)
+# Smoothie Photo:
+![Image](https://www.aspicyperspective.com/wp-content/uploads/2020/05/green-smoothie-recipe-10.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
