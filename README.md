@@ -1,30 +1,24 @@
-## Welcome to Ruby's Page!
+## Welcome to Ruby's Markdown Page...
 
-You can use the [editor on GitHub](https://github.com/rubyspch/jekyll-demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am practicing using **Markdown** on this page by writing out a _recipe_.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Each commit will update the Github Page [here](https://rubyspch.github.io/jekyll-demo/).
 
-### Markdown
+### Recipe For a Green Smoothie
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Ingredients:
+- A handful of any leafy greens (e.g. kale, spinach, chard, spring greens)
+- 1/3 of a cucumber
+- 2 stalks of celery
+- 1/2 lemon or lime
+- 200ml Fruit juice or water
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+## Instructions:
+1. Add all ingredients to a blender.
+2. Blend until smooth. If the mixture is too think, add more fruit juice/water.
+3. Serve in a glass with ice cubes.
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
